@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(33, 32, 32);
+    color:whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100vw;
+    overflow-x: hidden;
+}
+.centered {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -100px;
+  }
+div{
+    box-shadow: 0 4px 10px ;
+    border-radius: 20px;
+    padding: 30px;
+    text-align: center !important;
+}
